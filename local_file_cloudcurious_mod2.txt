@@ -1,0 +1,4 @@
+Hello CloudCurious_mod2 repository
+I am pulling you from github
+I cloned you to local
+I am putting a file inside you and will upload you back
